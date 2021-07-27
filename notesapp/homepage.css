@@ -1,0 +1,71 @@
+.background-image{
+    background-image: url("https://www.thebalancesmb.com/thmb/zoHsF-TwI5OQJfC9oBFOVGOhsAM=/2120x1414/filters:fill(auto,1)/GettyImages-1182285278-aabd579361b94e9baf90420d2a215178.jpg");
+    background-size: cover;
+    height: 1000px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-attachment: fixed;
+    opacity: 0.9;
+}
+body{
+    background-color: whitesmoke;
+}
+.entry{
+    padding-top: 100px;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    opacity: 9;
+
+
+}
+#para{
+    font-size: 20px;
+    color: black;
+    opacity: 9;
+}
+#logo{
+    font-size: 20px;
+    font-weight: bold; 
+    color: black;
+
+}
+.label{
+    font-size: 20px;
+    color: black;
+}
+.form-heading{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+#primary{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    padding-top: 30px;
+}
+.thumbnail{
+    color: black;
+}
+.thumbnail:hover{
+    background-color: burlywood;
+    box-shadow: gold;
+}
+#secondary{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#para2{
+    font-size: 15px;
+}
+#last{
+    text-align: center;
+    font-size:40px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
